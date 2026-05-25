@@ -3,8 +3,8 @@ def more_hello():
 
 
 # Nonsense code to test the linter
-var = 1
-var = var
+#var = 1
+#var = var
 
 # Wrong code to test the linter
 # foo=
